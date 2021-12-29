@@ -1,0 +1,26 @@
+/***style.css***/
+body {
+  text-align: center;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  height: 800px;
+  grid-gap: 0;
+  margin: auto;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.newSquare {
+  height: 10px;
+  width: 10px;
+  background-color: rgb(180, 177, 177);
+}
