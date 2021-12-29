@@ -2,7 +2,6 @@
 
 //DOM elements
 const container = document.querySelector("#container");
-const reset = document.querySelector("#reset");
 
 //function square creates a single div and changes the color on mouseover
 function square() {
